@@ -1,3 +1,7 @@
+# Trying out Android Apps for the First Time, works on my phone
+# Timothy Shee
+# Forked from aniket91
+
 ![Tic tac Toe](http://4.bp.blogspot.com/-qf2tgPVvP8M/VU6AFJXLLVI/AAAAAAAAJE4/cyaWtkz3jb0/s1600/high-res-new.jpg)
 
 Android Tic Tac Toe
